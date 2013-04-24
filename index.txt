@@ -2,5 +2,5 @@
 
 echo "My PIE website <br/>";
 echo "PIE News<br/>";
-echo "News 2 <br/>";
+echo "News 3<br/>";
 ?>
